@@ -30,7 +30,7 @@ scrape_art_info <- function(x){
 
 # load data to get links -------------------------------------------------------
 
-uoe_art <- read_csv("data/uoe_art.csv")
+uoe_art <- read_csv("data/uoe-art.csv")
 
 # apply function ---------------------------------------------------------------
 
